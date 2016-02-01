@@ -1,7 +1,7 @@
 name: JoshZaldana
 favicon: null
-layout_spectrum: 0.7687239684164524
-typography_spectrum: 0.9170570077840239
+layout_spectrum: 0.26628
+typography_spectrum: 0.34032
 title: Josh Zaldana Music
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#fbf9fc'
     - '#211e19'
     - '#c8c6c9'
-  brandStrength: 0.5278726508840919
+  brandStrength: 0.1875
   lightness: 0.8880524444393814
   saturation: 0.416576741496101
   rhythmicContrast: 0.13878617365844548
