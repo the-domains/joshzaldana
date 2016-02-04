@@ -4,21 +4,21 @@
         <description><![CDATA[Josh Zaldana]]></description>
         <link>http://www.joshzaldana.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Feb 2016 03:53:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Feb 2016 03:59:19 GMT</lastBuildDate>
         <atom:link href="http://www.joshzaldana.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Currently traveling across coffee shops and open mics playing new songs. ]]></title>
+            <description><![CDATA[<h1>Currently traveling across coffee shops and open mics playing new songs. </h1>]]></description>
+            <link>http://www.joshzaldana.com/382556a7-53e5-4c41-b173-263625dc4276/index.html</link>
+            <guid isPermaLink="false">382556a7-53e5-4c41-b173-263625dc4276</guid>
+            <pubDate>Thu, 04 Feb 2016 03:59:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c2eb9c7-a0cd-4355-bffd-e7c7e128300e.jpg">]]></description>
             <link>http://www.joshzaldana.com/a1c3da16-5374-484c-afbe-afddf96e50c0/index.html</link>
             <guid isPermaLink="false">a1c3da16-5374-484c-afbe-afddf96e50c0</guid>
             <pubDate>Thu, 04 Feb 2016 03:53:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Currently traveling across coffee shops and open mics playing new songs. ]]></title>
-            <description><![CDATA[<article><h1>Currently traveling across coffee shops and open mics playing new songs. </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/20be572fe75412da6f96844968fe39d98946c4a5.jpg"></article>]]></description>
-            <link>http://www.joshzaldana.com/382556a7-53e5-4c41-b173-263625dc4276/index.html</link>
-            <guid isPermaLink="false">382556a7-53e5-4c41-b173-263625dc4276</guid>
-            <pubDate>Thu, 04 Feb 2016 03:16:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
